@@ -15,7 +15,7 @@ class String
     self.end_with("!")
   end
 
-  def 
-     seld.
+  def count_sentences
+     self.
   end
 end
